@@ -1,2 +1,2 @@
 # webgeeks-scrapper
-WeScrapper Chall for Impetus 21
+WebScrapper Chall for Impetus 21
